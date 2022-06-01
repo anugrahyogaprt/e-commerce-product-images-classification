@@ -1,0 +1,8 @@
+waitress
+flask
+pandas
+numpy
+scikit-learn
+opencv-python-headless
+tensorflow-cpu
+pillow

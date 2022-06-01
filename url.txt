@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/vikashrajluhaniwal/fashion-images
+https://fashion-p2m2-yoga.herokuapp.com/
